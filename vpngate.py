@@ -570,7 +570,7 @@ www.ventusky.com:443#US 移动优选[www.ventusky.com 196ms],
 ooo.0o0.ooo:443#US 移动优选[ooo.0o0.ooo 196ms],
 ikankeji.com:443#HK 移动优选[ikankeji.com 197ms],
 aandd.co.jp:443#US 移动优选[aandd.co.jp 198ms],
-www.applevis.com:443#US 移动优选[www.applevis.com 200ms],"
+www.applevis.com:443#US 移动优选[www.applevis.com 200ms]",
 ).split(",")
     if h.strip()
 ]
